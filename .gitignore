@@ -11,6 +11,9 @@ pom.xml.asc
 /.nrepl-port
 /.repl
 
+# Generated JavaScript files.
+js/wake_up_user.js
+
 # =========================
 # Operating System Files
 # =========================
