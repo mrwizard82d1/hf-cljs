@@ -1,3 +1,14 @@
-# hf_cljs
+# hf-cljs
 
-Some code from "Head First JavaScript" implemented in ClojureScript!
+For experimenting with code from "Head First JavaScript." 
+
+## Usage
+
+FIXME
+
+## License
+
+Copyright © 2015 FIXME
+
+Distributed under the Eclipse Public License either version 1.0 or (at
+your option) any later version.
