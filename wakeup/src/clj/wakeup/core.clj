@@ -1,4 +1,4 @@
-(ns hf-cljs.core)
+(ns wakeup.core)
 
 (defn foo
   "I don't do a whole lot."

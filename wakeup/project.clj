@@ -9,6 +9,6 @@
   :cljsbuild {:builds
               [{:source-paths ["src/cljs"],
                 :compiler
-                {:output-to "resources/public/js/wake_up_user.js",
+                {:output-to "resources/public/js/wakeup.js",
                  :optimizations :whitespace
                  :pretty-print true}}]})
